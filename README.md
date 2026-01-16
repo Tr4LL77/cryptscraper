@@ -40,7 +40,7 @@ pip install requests beautifulsoup4
 4. Download CryptScraper
 
 ```bash
-git clone https://github.com/Tr4LL 77/cryptscraper
+git clone https://github.com/Tr4LL77/cryptscraper
 ```
 
 5. Masuk ke Folder CryptScraper
